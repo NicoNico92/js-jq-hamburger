@@ -5,7 +5,7 @@ $('.fa-bars').click(function() {
 $('.close').click(function() {
     $('.hamburger-menu').fadeOut();
 });
-
+// MA ATTENZIONE SHOW E HIDE AGGIUNGE STILE IN LINEA
 
 //VERSIONE AddClass
 
@@ -17,3 +17,12 @@ $('.close').click(function() {
 //         $('.hamburger-menu').removeClass('active')
 //     })
 // });
+
+// $ (".heder-right > a").click(function(){
+//     $("hamburger-menu").show()
+// });
+// $ (".close").click(function(){
+//     $("hamburger-menu").hide()
+// })
+//
+// MA ATTENZIONE SHOW E HIDE AGGIUNGE STILE IN LINEA
